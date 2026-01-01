@@ -1,0 +1,8 @@
+{
+  "name": "Minh Trang Academy - Career Guidance",
+  "description": "A comprehensive beauty industry career guidance platform featuring the Career Mirror™ AI and professional training pathways.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
