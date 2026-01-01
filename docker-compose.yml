@@ -8,7 +8,7 @@ services:
       args:
         - GEMINI_API_KEY=${GEMINI_API_KEY}
     ports:
-      - "80:80"
+      - "8080:80"
     restart: unless-stopped
     container_name: minh-trang-academy
     environment:
